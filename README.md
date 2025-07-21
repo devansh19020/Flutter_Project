@@ -1,4 +1,4 @@
-# project_exhibition (Flutter Project)
+# Quizzy (Flutter Project)
 
 ## Overview
 
